@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Readability Favorites\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-14 19:22+0100\n"
+"PO-Revision-Date: 2012-03-14 19:24+0100\n"
+"Last-Translator: Gabriel Bretschner <info@kanedo.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: readability-favorites.php:44
+#: readability-favorites.php:86
+#: readability-favorites.php:169
+msgid "Links from "
+msgstr "Links vom"
+
+#: readability-favorites.php:44
+#: readability-favorites.php:86
+#: readability-favorites.php:169
+msgid " to "
+msgstr "bis"
+
+#: readability-favorites.php:150
+msgid "This post was generated with <a href='http://kanedo.net/projekte/readability-favorites/?pk_campaign=Plugin&pk_kwd=Readability%20Favorites'>Readability Favorites</a>"
+msgstr "Dieser Beitrag wurde mit <a href='http://kanedo.net/projekte/readability-favorites/?pk_campaign=Plugin&pk_kwd=Readability%20Favorites'>Readability Favorites</a> generiert."
+
+#: readability-favorites.php:177
+#, fuzzy
+msgid "Main Settings"
+msgstr "Haupteinstellungen"
+
+#: readability-favorites.php:180
+msgid "Schedule"
+msgstr "Plan"
+
+#: readability-favorites.php:182
+msgid "Category"
+msgstr "Kategorie"
+
+#: readability-favorites.php:184
+msgid "default Status"
+msgstr "standard Status"
+
+#: readability-favorites.php:186
+msgid "Preview the next post"
+msgstr "Vorschau des nächsten Beitrags anzeigen"
+
+#: readability-favorites.php:188
+msgid "Connect with Readability"
+msgstr "Mit Readability verbinden"
+
+#: readability-favorites.php:192
+msgid "Post Settings"
+msgstr "Beitragseinstellungen"
+
+#: readability-favorites.php:194
+msgid "Post title"
+msgstr "Beitragstitel"
+
+#: readability-favorites.php:196
+msgid "Introduction"
+msgstr "Einführungstext"
+
+#: readability-favorites.php:198
+msgid "featured Image"
+msgstr "Artikelbild"
+
+#: readability-favorites.php:200
+msgid "Show the plugins name"
+msgstr "Den Pluginnamen im Beitrag zeigen"
+
+#: readability-favorites.php:206
+msgid "Readability Favorites requires the <a href='http://php.net/curl'>cUrl PHP extension</a> to work"
+msgstr "Readabiliy Favorites benötigt die <a href='http://php.net/curl'>cUrl PHP Erweiterung</a> um zu funktionieren"
+
+#: readability-favorites.php:250
+msgid "Once a week"
+msgstr "Einmal die Woche"
+
+#: readability-options.php:10
+msgid "Readability Plugin Options"
+msgstr "Readability Favorite Plugin Optionen"
+
+#: readability-options.php:15
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie haben nicht die nötigen Rechte um auf diese Seite zuzugreifen"
+
+#: readability-options.php:26
+msgid "Readability Favorites options page"
+msgstr "Readability Favorites Einstellungsseite"
+
+#: readability-options.php:27
+msgid "Here you can manage all options of this Plugin"
+msgstr "Hier können alle Einstellungen für das Plugin vorgenommen werden"
+
+#: readability-options.php:28
+msgid "If you like, please visit my <a href=\"http://blog.kanedo.net/?pk_campaign=Plugin&pk_kwd=Readability%20Favorites\"><strong>blog</strong></a></p>"
+msgstr "Wenn du magst, besuche meinen <a href=\"http://blog.kanedo.net/?pk_campaign=Plugin&pk_kwd=Readability%20Favorites\"><strong>Blog</strong></a>.</p>"
+
+#: readability-options.php:39
+msgid "and you can send me a flattr"
+msgstr "und du kannst mich flattrn"
+
+#: readability-settings.php:6
+msgid "The main settings"
+msgstr "Haupteinstellungen"
+
+#: readability-settings.php:10
+msgid "The post settings"
+msgstr "Die Einstellungen für den Beitrag"
+
+#: readability-settings.php:17
+msgid "start date:"
+msgstr "Start-Datum"
+
+#: readability-settings.php:18
+msgid "end date:"
+msgstr "End-Datum"
+
+#: readability-settings.php:35
+msgid "daily"
+msgstr "Täglich"
+
+#: readability-settings.php:36
+msgid "weekly"
+msgstr "Wöchentlich"
+
+#: readability-settings.php:37
+msgid "manually"
+msgstr "Manuell"
+
+#: readability-settings.php:39
+msgid "To trigger the plugin manually use the following Link (e.g. external cronjob):"
+msgstr "Um das Plugin manuell zu starten, benutze den Folgenden Link (z.B. in einem externen Cron Job):"
+
+#: readability-settings.php:145
+msgid "Authorize with Readability"
+msgstr "Mit Readability Autorisieren"
+
+#: readability-settings.php:147
+msgid "Authorized"
+msgstr "Autorisiert"
+
+#: readability-settings.php:177
+msgid "Enter an URL or upload an image for the banner."
+msgstr "Gib eine URL an oder lade ein Bild hoch als Artikelbild"
+
+#: readability-settings.php:225
+msgid "Preview"
+msgstr "Vorschau"
+
+#: readability-settings.php:226
+msgid "This post will be published at"
+msgstr "Dieser Beitrag wird veröffentlicht am: "
+
+#~ msgid " bis "
+#~ msgstr "bis"
